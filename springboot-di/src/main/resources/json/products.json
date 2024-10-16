@@ -1,0 +1,22 @@
+[
+    {
+        "id": 4,
+        "name": "Switch 2",
+        "price": 250000
+    },
+    {
+        "id": 5,
+        "name": "Zapatillas Nike",
+        "price": 85000
+    },
+    {
+        "id": 6,
+        "name": "Pantalones Stussy",
+        "price": 120000
+    },
+    {
+        "id": 6,
+        "name": "Lapiz Bic",
+        "price": 1000
+    }
+]
